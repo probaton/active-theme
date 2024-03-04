@@ -5,9 +5,10 @@
   "theme": {
     "colors" : {
       "tab_text": [124, 85, 255],
-      "background_tab": [124, 85, 255],
+      "frame": [124, 85, 255],
+      "frame_inactive": [229, 229, 229],
+      "background_tab": [229, 221, 255],
       "background_tab_inactive": [192, 255, 238],
-      "frame": [200, 200, 200],
       "c0ffee": [192, 255, 238]
     },
     "tints" : {
